@@ -1,7 +1,7 @@
 
 # Sistema de envio de email
 
-Um serviço de email utilizando o mailtrao para fins de testes. Caso queira para produção só alterar o provedor de e-mail para uma da sua preferência.
+Um serviço de email utilizando o <a href="https://mailtrap.io/">mailtrap</a> para fins de testes. Caso queira para produção só alterar o provedor de e-mail para uma da sua preferência.
 
 ## Deploy
 
