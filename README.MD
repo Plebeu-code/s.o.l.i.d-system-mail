@@ -1,7 +1,7 @@
 
-# Sistema de envio de email
+<h1 align="center">Sistema de envio de email</h1>
 
-Um serviço de email utilizando o <a href="https://mailtrap.io/">mailtrap</a> para fins de testes. Caso queira para produção só alterar o provedor de e-mail para uma da sua preferência.
+Um serviço de email utilizando o <a href="https://mailtrap.io/">mailtrap</a> para fins de testes. Caso queira para produção só alterar o provedor de e-mail para um da sua preferência.
 
 ## Deploy
 
@@ -44,6 +44,6 @@ Retorna um código de erro 201 para sucesso.
 **Back-end:** Node, Express
 
 
-![Logo](https://cdn.discordapp.com/attachments/560251522127101972/993340182491320432/standard_1.gif)
-
-
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/560251522127101972/993340182491320432/standard_1.gif"/>
+</p>
