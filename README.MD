@@ -34,7 +34,7 @@ Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de
 
 | Parâmetro   | Tipo       | Descrição                           |
 | :---------- | :--------- | :---------------------------------- |
-| `{name, email, password}` | `JSON` | Insira os valores de cada como parametro  json. Ex: {"name": "Plebeu", "email": dev@plebeu}...
+| `{name, email, password}` | `JSON` | Insira os valores de cada como parametro  json. Ex: {"name": "Plebeu", "email": "dev@plebeu", "password": "1234"}...
 
 Retorna um código de erro 201 para sucesso.
 
