@@ -26,11 +26,11 @@ export class CreateUserUseCase {
         email: data.email,
       },
       from: {
-        name: "Equipe do meuapp",
-        email: "bigode@pizzaria.com",
+        name: "Equipe da Flame agradece.",
+        email: "developer@flame.out",
       },
-      subject: "Seja bem-vindo a pizzaria do bigodinho",
-      body: "<p>Você já pode fazer seu login no meuapp</p>",
+      subject: "Seja bem-vindo a ao sistema de desenvolvimento da Flame.out.",
+      body: "<h1>Sistema de desenvolvimento da flame. \n </h1> <a href='https://discord.gg/xnAyKtWMDz'>Acesse o nosso Discord</a>",
     })
   }
 }

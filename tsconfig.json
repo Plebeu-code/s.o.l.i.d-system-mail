@@ -8,6 +8,10 @@
     "strict": false,                                      /* Enable all strict type-checking options. */
   },
   "include": [
-    "src/**/*.ts"
-  ]
+    "src/**/*.ts",
+    "types/",
+  ],
+  "exclude": [
+    "node_modules",
+  ],
 }
